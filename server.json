@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/noaa-tides",
   "title": "Noaa Tides",
-  "description": "NOAA Tides & Currents — observations, predictions, datums, station metadata",
-  "version": "0.1.0",
+  "description": "NOAA Tides & Currents MCP.",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/noaa-tides",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-noaa-tides",
